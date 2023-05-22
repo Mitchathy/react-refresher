@@ -1,0 +1,23 @@
+{
+  "name": "react-refresher",
+  "version": "1.0.0",
+  "description": "Just a little refressher of React",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchathy/react-refresher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitchathy/react-refresher/issues"
+  },
+  "homepage": "https://github.com/Mitchathy/react-refresher#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "react": "^18.2.0"
+  }
+}
